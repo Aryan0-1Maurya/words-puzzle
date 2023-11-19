@@ -4,7 +4,7 @@ Unleash your word skills with Words Puzzle, a challenging and fun word game! �
 
 ## Play the Game
 
-[Play Now](https://your-username.github.io/words-puzzle/) 🕹️
+[Play Now](https://aryan0-1maurya.github.io/words-puzzle/) 🕹️
 
 ## About the Game
 
